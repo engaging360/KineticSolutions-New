@@ -2378,10 +2378,19 @@ a {
   bottom: -45px;
   width: 130px;
 }
-@media (max-width: 767px) {
+@media (max-width: 960px) {
   .cid-sc7ACC8UqX .wrapper {
     padding: 1rem 1.5rem;
     backdrop-filter: blur(40px) !important;
+  }
+  .cid-sc7ACC8UqX H1 {
+    color: #0d0d0d !important;
+  }
+  .cid-sc7ACC8UqX H3 {
+    color: #0d0d0d !important;
+  }
+  .cid-sc7ACC8UqX p {
+    color: #0d0d0d !important;
   }
 }
 .cid-sc7ACC8UqX .mbr-text,
