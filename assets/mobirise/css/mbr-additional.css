@@ -350,6 +350,14 @@ nav .mbr-section-btn {
   margin-right: 0rem;
 }
 
+/*! Btn Jotform Chat */
+.jfFeedbackButton, .jfFeedbackButton.u-textOnly, .jfFeedbackButton.jFisActive {
+    -webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 40px !important;
+}
+
 /*! Btn icon margin */
 .btn .mbr-iconfont,
 .btn.btn-sm .mbr-iconfont {
@@ -2051,6 +2059,7 @@ a {
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
+  border: 1px solid #ff220c;
 }
 @media (max-width: 991px) {
   .cid-scpeTbBXJ9 .dropdown .dropdown-menu .dropdown-item::after {
@@ -2372,7 +2381,7 @@ a {
 @media (max-width: 767px) {
   .cid-sc7ACC8UqX .wrapper {
     padding: 1rem 1.5rem;
-    backdrop-filter: blur(20px) !important;
+    backdrop-filter: blur(40px) !important;
   }
 }
 .cid-sc7ACC8UqX .mbr-text,
@@ -2439,8 +2448,7 @@ a {
   color: #eba795 !important;
   transition: all 0.3s;
   background-color: transparent !important;
-  padding-top: 0.8rem;
-  padding-bottom: 0.8rem;
+  padding: 12px 35px;
   position: relative;
   transform: scale(1) !important;
   border-radius: 40px;
@@ -4159,6 +4167,14 @@ iframe {
 nav .mbr-section-btn {
   margin-left: 0rem;
   margin-right: 0rem;
+}
+
+/*! Btn Jotform Chat */
+.jfFeedbackButton, .jfFeedbackButton.u-textOnly, .jfFeedbackButton.jFisActive {
+    -webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 40px !important;
 }
 
 /*! Btn icon margin */
@@ -6449,6 +6465,14 @@ iframe {
 nav .mbr-section-btn {
   margin-left: 0rem;
   margin-right: 0rem;
+}
+
+/*! Btn Jotform Chat */
+.jfFeedbackButton, .jfFeedbackButton.u-textOnly, .jfFeedbackButton.jFisActive {
+    -webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 40px !important;
 }
 
 /*! Btn icon margin */
@@ -8974,6 +8998,14 @@ nav .mbr-section-btn {
   margin-right: 0rem;
 }
 
+/*! Btn Jotform Chat */
+.jfFeedbackButton, .jfFeedbackButton.u-textOnly, .jfFeedbackButton.jFisActive {
+    -webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 40px !important;
+}
+
 /*! Btn icon margin */
 .btn .mbr-iconfont,
 .btn.btn-sm .mbr-iconfont {
@@ -11144,6 +11176,14 @@ nav .mbr-section-btn {
   margin-right: 0rem;
 }
 
+/*! Btn Jotform Chat */
+.jfFeedbackButton, .jfFeedbackButton.u-textOnly, .jfFeedbackButton.jFisActive {
+    -webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 40px !important;
+}
+
 /*! Btn icon margin */
 .btn .mbr-iconfont,
 .btn.btn-sm .mbr-iconfont {
@@ -13312,6 +13352,14 @@ iframe {
 nav .mbr-section-btn {
   margin-left: 0rem;
   margin-right: 0rem;
+}
+
+/*! Btn Jotform Chat */
+.jfFeedbackButton, .jfFeedbackButton.u-textOnly, .jfFeedbackButton.jFisActive {
+    -webkit-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	-moz-box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	box-shadow : 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 40px !important;
 }
 
 /*! Btn icon margin */
